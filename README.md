@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📚 How to Create a Table in SQL (PostgreSQL)
 
 Complete step-by-step guide for beginners with examples.
@@ -512,3 +513,6 @@ SELECT * FROM студенты LIMIT 5;
 
 
 
+=======
+# sql-begin-start
+>>>>>>> 91471b4fb7c1f5fbb439baff3cfa7298e2fb5f50
