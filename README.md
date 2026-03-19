@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 📚 How to Create a Table in SQL (PostgreSQL)
 
 Complete step-by-step guide for beginners with examples.
